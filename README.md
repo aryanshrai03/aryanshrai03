@@ -18,14 +18,9 @@
 
 **A Full-Stack Developer**  
 🌍 *India 🇮🇳*  
-🎯 *Currently focused on building AI-powered tools & platforms*
+🎯 *Currently focused on building AI-powered tools & Discord bots!*
 
 ---
-
-
-
-
--
 
 
 
@@ -52,7 +47,7 @@
 
 
 
---
+
 
 
 
