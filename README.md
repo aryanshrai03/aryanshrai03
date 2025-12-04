@@ -14,29 +14,13 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"> **About Me**
 
-```javascript
-const foil = {
-    name: "Aryansh Rai",
-    aka: ["Foil", "imfoil"],
-    role: "Founder & Full-Stack Web Developer",
-    location: "India 🇮🇳",
-    currentFocus: "Building AI-powered tools & platforms",
+# **Foil (Aryansh Rai)**
 
-    skills: {
-        frontend: ["HTML5", "CSS", "JavaScript"],
-        backend: ["PHP", "SQL"],
-        learning: ["Node.js", "Python"]
-    },
+**A Full-Stack Developer**  
+🌍 *India 🇮🇳*  
+🎯 *Currently focused on building AI-powered tools & platforms*
 
-    projects: ["FoilAI", "VroGPT", "Kala Billa Bot"],
-
-    contact: {
-        github: "@aryanshrai03",
-        discord: "imfoil",
-        email: "realpablopebble@gmail.com"
-    }
-};
-```
+---
 
 
 
@@ -50,7 +34,7 @@ const foil = {
 ## 🛠️ **Tech Stack**
 
 <div align="center">
-
+### 📚 Expert In
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -120,10 +104,10 @@ const foil = {
 
 <div align="center">
 
-### 💭 *"Building the future, one line of code at a time."* – Foil
+### 💭 *"Coding let's you convert your imagination into an Art!"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aryanshrai03&color=blueviolet&style=for-the-badge)
 
-⭐ **From [aryanshrai03](https://github.com/aryanshrai03) with ❤️**
+⭐ **From [aryanshrai03](https://github.com/aryanshrai03)**
 
 </div>
