@@ -1,11 +1,57 @@
-# Hi there 👋 I'm Aryansh Rai!
+<h1 align="center">👋 Hey there, I'm Aryan!</h1>
+<h3 align="center">Founder & Full-Stack Web Developer | Building AI-powered tools</h3>
 
-I'm a Developer from Earth.
-- 🔭 I’m currently working on FoilAI , VroAI & Kala Billa Bot
-- ♨️ I'm expert in HTML5 , CSS , SQL , PHP & JS
-- 🌱 I’m learning Node.js and Python
-- 📫 How to reach me: your_email@example.com
+---
 
+### 🚀 About Me
+- 🔭 I’m currently working on / Creator of:  
+  - ⚡ **FoilAI** – https://foilai.in  
+  - 🤖 **VroGPT** – https://gpt.vroai.in  
+  - 🐺 **Kala Billa Bot** – https://kalabilla.in
+- 🧠 Expert in **HTML5, CSS, SQL, PHP & JavaScript**
+- 🌱 Currently learning **Node.js & Python**
+- 🥅 Goal: Build powerful AI tools that help everyone!
 
-### 📈 GitHub Stats
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanshrai03&show_icons=true&theme=radical)
+---
+
+## 🧰 Tech Stack & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,nodejs,python,linux,git,github,bootstrap,vscode&perline=6" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=aryanshrai03&theme=omni&hide_border=false&include_all_commits=true&count_private=false" height="160px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aryanshrai03&theme=omni&hide_border=false" height="160px"/>
+</p>
+
+---
+
+<p align="center">
+<a href="https://discord.com/users/1252101579855630346">
+<img src="https://lanyard.cnrad.dev/api/1252101579855630346?theme=dark&borderRadius=10px&animated=true&idleMessage=Probably%20developing%20something%20cool"/>
+</a>
+</p>
+
+---
+
+## 🌍 Socials & Contact
+
+<p align="center">
+<a href="https://github.com/aryanshrai03"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
+<a href="mailto:realpablopebble@gmail.com"><img src="https://img.icons8.com/?size=512&id=12580&format=png" height="45"/></a>
+<a href="https://discord.com/users/1252101579855630346"><img src="https://skillicons.dev/icons?i=discord" height="45"/></a>
+</p>
+
+---
+
+### ✨ Fun Quote
+> *"The best way to predict the future is to create it."*
+
+---
+
+⭐ **If you like my projects, consider giving them a star!**
