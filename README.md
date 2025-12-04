@@ -6,7 +6,7 @@
 
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Founder+%26+Full-Stack+Web+Developer;Building+AI+Tools+%26+Platforms" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Founder+%26+Full-Stack+Web+Developer;Building+AI+Tools+%26+Platforms;Founded FoilAI;Founded VroAI;Co Founder of KALA BILLA BOT" alt="Typing SVG" />
 
 </div>
 
@@ -87,9 +87,7 @@ const foil = {
 ## 📊 **GitHub Stats**
 
 <div align="center">
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryanshrai03&theme=tokyonight)
-
+    
 ![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanshrai03&theme=tokyonight)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryanshrai03&theme=tokyonight)
