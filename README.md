@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm **Foil**
 
-### (Aryansh Rai)
+### Aryansh Rai
 
 
 
@@ -14,11 +14,17 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"> **About Me**
 
+<div align="center">
+
 # **Foil (Aryansh Rai)**
 
 **A Full-Stack Developer**  
 🌍 *India 🇮🇳*  
 🎯 *Currently focused on building AI-powered tools & Discord bots!*
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1252101579855630346?borderRadius=15px&theme=dark&showDisplayName=true)](https://discord.com/users/1252101579855630346)
+
+</div>
 
 ---
 
@@ -72,16 +78,6 @@
 ![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanshrai03&theme=tokyonight)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryanshrai03&theme=tokyonight)
-
-</div>
-
----
-
-## 🎧 **Discord Presence**
-
-<div align="center">
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1252101579855630346?borderRadius=15px&theme=dark&showDisplayName=true)](https://discord.com/users/1252101579855630346)
 
 </div>
 
