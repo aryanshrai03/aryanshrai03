@@ -6,7 +6,7 @@
 
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Founder+%26+Full-Stack+Web+Developer;Building+AI+Tools+%26+Platforms;Founded FoilAI;Founded VroAI;Co Founder of KALA BILLA BOT" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Founder+%26+Full-Stack+Web+Developer;Building+AI+Tools+%26+Platforms;Founded+FoilAI;Founded+VroAI;Co+Founder+of+KalaBilla+DiscordBOT" alt="Typing SVG" />
 
 </div>
 
