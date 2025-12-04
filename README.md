@@ -66,6 +66,10 @@
 | **FoilAI** | AI tool & platform for smart solutions | [foilai.in](https://foilai.in) |
 | **VroGPT** | Advanced AI Chatbot & GPT service | [gpt.vroai.in](https://gpt.vroai.in) |
 | **Kala Billa Bot** | Powerful Discord bot project | [kalabilla.in](https://kalabilla.in) |
+| **DfamoAI** | Homework helper AI Chatbot | [dfamo.co.uk](https://dfamo.co.uk) |
+| **Tinymark - Coding language** | Powerful Discord bot project | [tinymark-lang.page.gd](https://tinymark-lang.page.gd/?utm_source=github) |
+| **Foil DixoAI** | Ai Diary Writer | [dixo.foilai.in](https://dixo.foilai.in) |
+| **HostMy - Tools** | Instantly host your HTML pages or PDF files | [hostmy.xo.je](https://hostmy.xo.je/?utm_source=github) |
 
 </div>
 
