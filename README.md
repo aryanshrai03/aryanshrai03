@@ -4,7 +4,7 @@
 
 ### (Aryansh Rai)
 
-<br/>
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Founder+%26+Full-Stack+Web+Developer;Building+AI+Tools+%26+Platforms" alt="Typing SVG" />
 
@@ -38,7 +38,14 @@ const foil = {
 };
 ```
 
----
+
+
+
+-
+
+
+
+
 
 ## 🛠️ **Tech Stack**
 
@@ -57,7 +64,11 @@ const foil = {
 
 </div>
 
----
+
+
+--
+
+
 
 ## 🚀 **Featured Projects**
 
@@ -77,11 +88,11 @@ const foil = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryanshrai03&theme=omni&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryanshrai03&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryanshrai03&theme=omni&hide_border=false)
+![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanshrai03&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanshrai03&theme=omni&hide_border=false&layout=compact)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryanshrai03&theme=tokyonight)
 
 </div>
 
