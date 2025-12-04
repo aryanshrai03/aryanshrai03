@@ -36,9 +36,11 @@
 ## 🎧 Live Discord Status
 
 <p align="center">
-<a href="https://discord.com/users/1252101579855630346">
-<img src="https://lanyard.cnrad.dev/api/1252101579855630346?theme=dark&animated=true&borderRadius=10&idleMessage=Probably%20Developing%20Something%20Cool" />
-</a>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1252101579855630346)](https://discord.com/users/1252101579855630346)
+
+![](https://github-readme-stats.vercel.app/api?username=aryanshrai03&theme=omni&hide_border=false&include_all_commits=true&count_private=false)
+  
 </p>
 
 ---
