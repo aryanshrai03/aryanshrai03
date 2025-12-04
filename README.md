@@ -1,63 +1,120 @@
-<h1 align="center">🔥 Hey there, I'm Aryansh!</h1>
-<h3 align="center">Founder & Full-Stack Web Developer | Building AI-powered tools</h3>
+<div align="center">
+
+# 👋 Hey there, I'm **Foil**
+
+### (Aryansh Rai)
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Founder+%26+Full-Stack+Web+Developer;Building+AI+Tools+%26+Platforms" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"> **About Me**
 
-- 👨‍💻 I’m currently working on / Creator of:  
-  - ⚡ **FoilAI** – https://foilai.in  
-  - 🤖 **VroGPT** – https://gpt.vroai.in  
-  - 🐺 **Kala Billa Bot** – https://kalabilla.in
+```javascript
+const foil = {
+    name: "Aryansh Rai",
+    aka: ["Foil", "imfoil"],
+    role: "Founder & Full-Stack Web Developer",
+    location: "India 🇮🇳",
+    currentFocus: "Building AI-powered tools & platforms",
 
-- 🧠 Expert in **HTML5, CSS, SQL, PHP & JavaScript**  
-- 🌱 Currently learning **Node.js & Python**  
-- 🎯 *Goal: Build powerful AI tools that help everyone!*  
+    skills: {
+        frontend: ["HTML5", "CSS", "JavaScript"],
+        backend: ["PHP", "SQL"],
+        learning: ["Node.js", "Python"]
+    },
 
----
+    projects: ["FoilAI", "VroGPT", "Kala Billa Bot"],
 
-## 🧰 Tech Stack & Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,nodejs,python,git,github,bootstrap,linux,vscode&perline=6"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanshrai03&theme=omni&hide_border=false&include_all_commits=true&count_private=false" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aryanshrai03&theme=omni&hide_border=false" height="160px" />
-</p>
+    contact: {
+        github: "@aryanshrai03",
+        discord: "imfoil",
+        email: "realpablopebble@gmail.com"
+    }
+};
+```
 
 ---
 
-## 🎧 Live Discord Status
+## 🛠️ **Tech Stack**
 
-<p align="center">
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 📚 Currently Learning
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 **Featured Projects**
+
+<div align="center">
+
+| 🎯 Project | 📝 Description | 🔗 Link |
+|:-----------|:---------------|:--------|
+| **FoilAI** | AI tool & platform for smart solutions | [foilai.in](https://foilai.in) |
+| **VroGPT** | Advanced AI Chatbot & GPT service | [gpt.vroai.in](https://gpt.vroai.in) |
+| **Kala Billa Bot** | Powerful Discord bot project | [kalabilla.in](https://kalabilla.in) |
+
+</div>
+
+---
+
+## 📊 **GitHub Stats**
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryanshrai03&theme=omni&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryanshrai03&theme=omni&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanshrai03&theme=omni&hide_border=false&layout=compact)
+
+</div>
+
+---
+
+## 🎧 **Discord Presence**
+
+<div align="center">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1252101579855630346)](https://discord.com/users/1252101579855630346)
 
-![](https://github-readme-stats.vercel.app/api?username=imfoil&theme=omni&hide_border=false&include_all_commits=true&count_private=false)
-  
-</p>
+</div>
 
 ---
 
-## 🌍 Socials & Contact
+## 📫 **Connect With Me**
 
-<p align="center">
-<a href="https://github.com/aryanshrai03"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
-<a href="mailto:aryanshrai03@gmail.com"><img src="https://img.icons8.com/?size=512&id=12580&format=png" height="45"/></a>
-<a href="https://discord.com/users/1252101579855630346"><img src="https://skillicons.dev/icons?i=discord" height="45"/></a>
-</p>
+<div align="center">
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryanshrai03)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1252101579855630346)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:realpablopebble@gmail.com)
 
-## ✨ Fun Quote
-> *"The best way to predict the future is to create it."*
+</div>
 
 ---
 
-⭐ *If you like my projects, consider giving them a star!*
+<div align="center">
+
+### 💭 *"Building the future, one line of code at a time."* – Foil
+
+![Profile Views](https://komarev.com/ghpvc/?username=aryanshrai03&color=blueviolet&style=for-the-badge)
+
+⭐ **From [aryanshrai03](https://github.com/aryanshrai03) with ❤️**
+
+</div>
