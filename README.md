@@ -101,6 +101,4 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aryanshrai03&color=blueviolet&style=for-the-badge)
 
-⭐ **From [aryanshrai03](https://github.com/aryanshrai03)**
-
 </div>
