@@ -92,6 +92,8 @@
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryanshrai03&theme=tokyonight)
 
+### **Most of my repos/codes are private**
+
 </div>
 
 ---
