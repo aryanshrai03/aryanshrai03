@@ -2,7 +2,6 @@
 
 # 👋 Hey there, I'm **Foil**
 
-### Aryansh Rai
 
 
 
