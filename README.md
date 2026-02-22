@@ -11,7 +11,7 @@
 </div>
 
 ---
-
+![Profile Views](https://komarev.com/ghpvc/?username=aryanshrai03&color=blueviolet&style=for-the-badge)
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"> **About Me**
 
 <div align="center">
@@ -102,7 +102,5 @@
 <div align="center">
 
 ### 💭 *"Coding let's you convert your imagination into an Art!"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=aryanshrai03&color=blueviolet&style=for-the-badge)
 
 </div>
