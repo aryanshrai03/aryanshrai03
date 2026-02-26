@@ -15,10 +15,9 @@
 
 
 </div>
+<div align="center">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"> **About Me**
-
-<div align="center">
 
 # **Foil (Aryansh Rai)**
 
@@ -34,12 +33,9 @@
 
 
 
-
-## 🛠️ **Tech Stack**
-
 <div align="center">
     
-## Tech Stack 
+## 🛠️ **Tech Stack**
 
 ### 🚀 Expert In
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -54,7 +50,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
----
+
 
 ### 📚 Currently Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -66,6 +62,7 @@
 
 </div>
 
+---
 
 
 
@@ -94,15 +91,15 @@
 
 ---
 
-## 📊 **GitHub Stats**
-
 <div align="center">
+
+## **GitHub Stats**
     
 ![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanshrai03&theme=tokyonight)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryanshrai03&theme=tokyonight)
 
-### **Most of my repos/codes are private**
+### **Most of my repos/codes are private :( **
 
 </div>
 
