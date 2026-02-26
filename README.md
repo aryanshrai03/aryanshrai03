@@ -118,10 +118,4 @@
 
 </div>
 
----
 
-<div align="center">
-
-### 💭 *"Coding let's you convert your imagination into an Art!"*
-
-</div>
