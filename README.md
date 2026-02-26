@@ -12,7 +12,7 @@
 ---
 <div align="center">
     
-![Profile Views](https://komarev.com/ghpvc/?username=aryanshrai03&color=blueviolet&style=for-the-badge)
+# profile views space
 
 </div>
 
