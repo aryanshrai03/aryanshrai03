@@ -99,15 +99,16 @@
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryanshrai03&theme=tokyonight)
 
-### **Most of my repos/codes are private :( **
+### Most of my repos/codes are private :(
 
 </div>
 
 ---
 
-## 📫 **Connect With Me**
 
 <div align="center">
+
+## 📫 **Connect With Me**
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1252101579855630346)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:foilispro@gmail.com)
