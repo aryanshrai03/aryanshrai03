@@ -76,6 +76,7 @@
 | 🎯 Project | 📝 Description | 🔗 Link |
 |:-----------|:---------------|:--------|
 | **AiraNode** | Free and Reliable Hosting | [airanode.in](https://airanode.in) & [.gg/airanode](https://discord.gg/airanode)|
+| **ModMailX** | Discord Modmail Bot build in CV2 | [View Source](https://github.com/aryanshrai03/ModMailX) & [Support Server](https://discord.gg/PJuGBWwQ)|
 | **Quantheon Development** | A coding community for free premium source codes | [www.quantheon.xyz](https://www.quantheon.xyz) & [Quantheon Discord](https://discord.gg/rVzEq6NrBH)|
 | **Free AI Domains is-an.ai** | Free and Perfect AI Domains for your personal projects! | [is-an.ai](https://is-an.ai) , [Github](https://github.com/is-an-ai/is-an.ai) & [Discord](https://discord.gg/gK769bxq3x)|
 | **Pluton Bot** | A Vouch verification anti-scam bot by watchforscam | [pluton.watchforscam.xyz](https://pluton.watchforscam.xyz) & [Discord Support Server](https://discord.gg/K2xUVjhJJU)|
