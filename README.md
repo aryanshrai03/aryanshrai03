@@ -24,7 +24,6 @@
 **A Full-Stack Developer**  
 📡 *Currently focused on building AI-powered tools & Discord bots!*
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1252101579855630346?borderRadius=15px&theme=dark&showDisplayName=true)](https://discord.com/users/1252101579855630346)
 
 </div>
 
@@ -111,7 +110,7 @@
 
 ## 📫 **Connect With Me**
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1252101579855630346)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1511220939080335393)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:foilispro@gmail.com)
 
 </div>
