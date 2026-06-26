@@ -1,31 +1,12 @@
 <div align="center">
 
-# 👋 Hey there, I'm **Foil**
-
-
-
-
+# 👋 Hey, I'm **Aryansh Rai**
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Founder+%26+Full-Stack+Developer;Owns+AiraNode+Hosting+airanode.in;Building+AI+Tools+%26+Platforms;Founded+FoilAI;Founded+VroAI;Co+Founder+of+KalaBilla+DiscordBOT" alt="Typing SVG" />
-
 </div>
 
----
-<div align="center">
-    
-
-
-</div>
-<div align="center">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"> **About Me**
-
-# **Foil (Aryansh Rai)**
-
-**A Full-Stack Developer**  
-📡 *Currently focused on building AI-powered tools & Discord bots!*
-
-
-</div>
+ <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"> **About Me**
+- A Full-Stack Developer
+- 📡 *Currently focused on building AI-powered tools & Discord bots!*
 
 ---
 
@@ -101,8 +82,8 @@ My projects list is removed for a while , until then you can explore my repos!
 
 ## 📫 **Connect With Me**
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1511220939080335393)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:foilispro@gmail.com)
+[!![LINE](https://img.shields.io/badge/LINE-00C300?logo=line&logoColor=fff)](https://line.me/ti/p/t8vatxG_Zm)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oprenthic@gmail.com)
 
 </div>
 
