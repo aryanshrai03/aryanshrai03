@@ -74,18 +74,9 @@
 
 | 🎯 Project | 📝 Description | 🔗 Link |
 |:-----------|:---------------|:--------|
-| **AiraNode** | Free and Reliable Hosting | [airanode.in](https://airanode.in) & [.gg/airanode](https://discord.gg/airanode)|
-| **ModMailX** | Discord Modmail Bot build in CV2 | [View Source](https://github.com/aryanshrai03/ModMailX) & [Support Server](https://discord.gg/PJuGBWwQ)|
-| **Quantheon Development** | A coding community for free premium source codes | [www.quantheon.xyz](https://www.quantheon.xyz) & [Quantheon Discord](https://discord.gg/rVzEq6NrBH)|
-| **Free AI Domains is-an.ai** | Free and Perfect AI Domains for your personal projects! | [is-an.ai](https://is-an.ai) , [Github](https://github.com/is-an-ai/is-an.ai) & [Discord](https://discord.gg/gK769bxq3x)|
-| **Pluton Bot** | A Vouch verification anti-scam bot by watchforscam | [pluton.watchforscam.xyz](https://pluton.watchforscam.xyz) & [Discord Support Server](https://discord.gg/K2xUVjhJJU)|
-| **FoilAI** | AI tool & platform for smart solutions | [foilai.in](https://foilai.in) |
-| **VroAI/VroGPT (unreleased)** | Advanced AI Chatbot & GPT service | [gpt.vroai.in](https://gpt.vroai.in) |
-| **Kala Billa Bot** | Powerful Discord bot project | [kalabilla.in](https://kalabilla.in) |
-| **DfamoAI** | Homework helper AI Chatbot | [dfamo.co.uk](https://dfamo.co.uk) |
-| **Tinymark - Coding language** | A simple Markdown type coding language that supports HTML| [tinymark-lang.page.gd](https://tinymark-lang.page.gd/?utm_source=github) |
-| **Foil DixoAI** | Ai Diary Writer | [dixo.foilai.in](https://dixo.foilai.in) |
-| **HostMy - Tools** | Instantly host your HTML pages or PDF files | [hostmy.xo.je](https://hostmy.xo.je/?utm_source=github) |
+| **CONTENT REMOVED** | CONTENT REMOVED | [null](https://github.com/aryanshrai03)|
+
+My projects list is removed for a while , until then you can explore my repos!
 
 </div>
 
