@@ -83,7 +83,7 @@ My projects list is removed for a while , until then you can explore my repos!
 ## 📫 **Connect With Me**
 
 [![LINE](https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=gmail&logoColor=white)](https://line.me/ti/p/t8vatxG_Zm)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oprenthic@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=line&logoColor=white)](mailto:oprenthic@gmail.com)
 
 </div>
 
