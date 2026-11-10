@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Aryansh Rai — Portfolio Under Construction</title>
+  <meta name="description" content="Aryansh Rai's portfolio is under construction. Check GitHub for what's shipping." />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%2307123d'/%3E%3Ctext x='32' y='43' font-family='monospace' font-weight='bold' font-size='30' fill='%237dd3fc' text-anchor='middle'%3EA%3C/text%3E%3C/svg%3E" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --navy: #07123d;
+      --navy-deep: #040a24;
+      --blue: #1d6ffb;
+      --sky: #7dd3fc;
+      --sky-dim: rgba(125, 211, 252, 0.35);
+      --ink: #e8f2ff;
+      --ink-dim: #92b4dd;
+      --mono: "JetBrains Mono", monospace;
+      --display: "Bricolage Grotesque", sans-serif;
+      --mx: 0;
+      --my: 0;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    html { height: 100%; }
+
+    body {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      background: radial-gradient(ellipse 90% 60% at 50% 30%, var(--navy) 0%, var(--navy-deep) 100%);
+      color: var(--ink);
+      font-family: var(--display);
+      overflow-x: hidden;
+      position: relative;
+    }
+
+    ::selection { background: var(--sky); color: var(--navy-deep); }
+
+    /* ---- Blueprint grid backdrop (parallax layer) ---- */
+    .grid {
+      position: fixed;
+      inset: -60px;
+      pointer-events: none;
+      z-index: 0;
+      transform: translate(calc(var(--mx) * 7px), calc(var(--my) * 7px));
+      background-image:
+        linear-gradient(rgba(125, 211, 252, 0.05) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(125, 211, 252, 0.05) 1px, transparent 1px),
+        linear-gradient(rgba(125, 211, 252, 0.09) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(125, 211, 252, 0.09) 1px, transparent 1px);
+      background-size: 28px 28px, 28px 28px, 140px 140px, 140px 140px;
+      mask-image: radial-gradient(ellipse 80% 70% at 50% 45%, black 30%, transparent 90%);
+      -webkit-mask-image: radial-gradient(ellipse 80% 70% at 50% 45%, black 30%, transparent 90%);
+    }
+
+    /* ---- Sweeping light beam ---- */
+    .beam {
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      z-index: 1;
+      overflow: hidden;
+    }
+    .beam::after {
+      content: "";
+      position: absolute;
+      top: -20%;
+      left: -40%;
+      width: 60%;
+      height: 140%;
+      background: linear-gradient(100deg, transparent 0%, rgba(125, 211, 252, 0.06) 45%, rgba(29, 111, 251, 0.09) 50%, rgba(125, 211, 252, 0.06) 55%, transparent 100%);
+      transform: skewX(-12deg);
+      animation: sweep 9s ease-in-out infinite;
+    }
+    @keyframes sweep {
+      0%, 15%   { left: -45%; }
+      50%, 65%  { left: 105%; }
+      100%      { left: 105%; }
+    }
+
+    /* ---- Caution tape, reimagined in blue ---- */
+    .tape {
+      position: fixed;
+      left: 0;
+      right: 0;
+      height: 12px;
+      z-index: 10;
+      opacity: 0.65;
+      background: repeating-linear-gradient(
+        -45deg,
+        var(--sky) 0 12px,
+        transparent 12px 26px,
+        var(--blue) 26px 38px,
+        transparent 38px 52px
+      );
+      background-size: 73.54px 100%;
+      animation: tape 2.6s linear infinite;
+    }
+    .tape--top { top: 0; }
+    .tape--bottom { bottom: 0; }
+    @keyframes tape {
+      to { background-position-x: 73.54px; }
+    }
+
+    /* ---- Viewport corner brackets (drafting feel) ---- */
+    .corner {
+      position: fixed;
+      width: 26px;
+      height: 26px;
+      z-index: 5;
+      border: 0 solid var(--sky-dim);
+      pointer-events: none;
+    }
+    .corner--tl { top: 26px; left: 26px; border-top-width: 1px; border-left-width: 1px; }
+    .corner--tr { top: 26px; right: 26px; border-top-width: 1px; border-right-width: 1px; }
+    .corner--bl { bottom: 26px; left: 26px; border-bottom-width: 1px; border-left-width: 1px; }
+    .corner--br { bottom: 26px; right: 26px; border-bottom-width: 1px; border-right-width: 1px; }
+
+    /* ---- Main content ---- */
+    main {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 64px 24px 40px;
+      position: relative;
+      z-index: 2;
+      gap: 0;
+    }
+
+    .status {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      font-family: var(--mono);
+      font-size: 0.72rem;
+      font-weight: 500;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: var(--sky);
+      border: 1px solid var(--sky-dim);
+      background: rgba(125, 211, 252, 0.06);
+      border-radius: 999px;
+      padding: 9px 18px 9px 14px;
+      margin-bottom: 34px;
+    }
+    .status .dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: var(--sky);
+      box-shadow: 0 0 10px var(--sky);
+      animation: pulse 1.6s ease-in-out infinite;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50%      { opacity: 0.35; transform: scale(0.75); }
+    }
+
+    .name {
+      font-weight: 800;
+      font-size: clamp(3.4rem, 12vw, 8.5rem);
+      line-height: 0.94;
+      letter-spacing: -0.03em;
+      text-transform: uppercase;
+      margin-bottom: 28px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .name .solid { color: var(--ink); }
+    .name .ghost {
+      color: transparent;
+      -webkit-text-stroke: 2px var(--sky);
+      text-shadow: 0 0 34px rgba(125, 211, 252, 0.25);
+    }
+
+    .tagline {
+      font-size: clamp(0.95rem, 2.2vw, 1.08rem);
+      font-weight: 500;
+      line-height: 1.8;
+      color: var(--ink-dim);
+      max-width: 52ch;
+      margin-bottom: 44px;
+    }
+    .tagline strong { color: var(--sky); font-weight: 700; }
+
+    /* ---- Build progress bar ---- */
+    .build {
+      width: min(560px, 100%);
+      margin-bottom: 44px;
+      font-family: var(--mono);
+      text-align: left;
+    }
+    .build__head {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      font-size: 0.7rem;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--ink-dim);
+      margin-bottom: 12px;
+    }
+    .pct {
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--sky);
+      letter-spacing: 0;
+    }
+    .pct::after {
+      content: "_";
+      margin-left: 2px;
+      animation: blink 1s steps(1) infinite;
+    }
+    @keyframes blink { 50% { opacity: 0; } }
+
+    .bar {
+      position: relative;
+      height: 14px;
+      border: 1px solid var(--sky-dim);
+      border-radius: 7px;
+      padding: 3px;
+      background: rgba(4, 10, 36, 0.6);
+    }
+    .bar__fill {
+      height: 100%;
+      width: 0%;
+      border-radius: 4px;
+      background: linear-gradient(90deg, var(--blue), var(--sky));
+      box-shadow: 0 0 14px rgba(125, 211, 252, 0.5);
+      transition: width 0.12s linear;
+      position: relative;
+    }
+    .bar__fill::after {
+      /* moving shimmer on the fill */
+      content: "";
+      position: absolute;
+      inset: 0;
+      border-radius: 4px;
+      background: linear-gradient(90deg, transparent 0%, rgba(255, 255, 255, 0.35) 50%, transparent 100%);
+      width: 40%;
+      animation: shimmer 1.6s linear infinite;
+    }
+    @keyframes shimmer {
+      from { transform: translateX(-120%); }
+      to   { transform: translateX(320%); }
+    }
+    .ticks {
+      display: flex;
+      justify-content: space-between;
+      font-size: 0.62rem;
+      color: rgba(146, 180, 221, 0.55);
+      margin-top: 8px;
+      letter-spacing: 0.08em;
+    }
+
+    /* ---- GitHub CTA ---- */
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 12px;
+      font-family: var(--mono);
+      font-size: 0.85rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: lowercase;
+      text-decoration: none;
+      color: var(--navy-deep);
+      background: var(--sky);
+      padding: 15px 26px;
+      border-radius: 10px;
+      box-shadow: 6px 6px 0 rgba(29, 111, 251, 0.85);
+      transition: transform 0.18s cubic-bezier(0.2, 0.8, 0.3, 1.2), box-shadow 0.18s cubic-bezier(0.2, 0.8, 0.3, 1.2);
+    }
+    .btn:hover, .btn:focus-visible {
+      transform: translate(-3px, -3px);
+      box-shadow: 9px 9px 0 var(--blue);
+      outline: none;
+    }
+    .btn:active {
+      transform: translate(2px, 2px);
+      box-shadow: 2px 2px 0 var(--blue);
+    }
+    .btn svg { width: 20px; height: 20px; flex: none; }
+
+    /* ---- Footer ---- */
+    footer {
+      padding: 20px 24px 34px;
+      text-align: center;
+      font-family: var(--mono);
+      font-size: 0.68rem;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: rgba(146, 180, 221, 0.55);
+      position: relative;
+      z-index: 2;
+    }
+    footer b { color: var(--sky); font-weight: 500; }
+
+    /* ---- Load-in choreography ---- */
+    .reveal {
+      opacity: 0;
+      animation: rise 0.8s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+    }
+    .reveal:nth-child(1) { animation-delay: 0.05s; }
+    .reveal:nth-child(2) { animation-delay: 0.16s; }
+    .reveal:nth-child(3) { animation-delay: 0.30s; }
+    .reveal:nth-child(4) { animation-delay: 0.44s; }
+    .reveal:nth-child(5) { animation-delay: 0.58s; }
+    @keyframes rise {
+      from { opacity: 0; transform: translateY(18px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    @media (max-width: 560px) {
+      .corner { display: none; }
+      .btn { box-shadow: 4px 4px 0 rgba(29, 111, 251, 0.85); }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+      }
+      .reveal { opacity: 1; }
+    }
+  </style>
+</head>
+<body>
+  <div class="grid" aria-hidden="true"></div>
+  <div class="beam" aria-hidden="true"></div>
+
+  <div class="tape tape--top" aria-hidden="true"></div>
+  <div class="tape tape--bottom" aria-hidden="true"></div>
+  <div class="corner corner--tl" aria-hidden="true"></div>
+  <div class="corner corner--tr" aria-hidden="true"></div>
+  <div class="corner corner--bl" aria-hidden="true"></div>
+  <div class="corner corner--br" aria-hidden="true"></div>
+
+  <main>
+    <div class="status reveal"><span class="dot"></span> Status : Building</div>
+
+    <h1 class="name reveal">
+      <span class="solid">Aryansh</span>
+      <span class="ghost">Rai</span>
+    </h1>
+
+    <p class="tagline reveal">
+      This portfolio is <strong>under construction</strong> — new code, fresh design,
+      launching soon. In the meantime, come watch the commits land.
+    </p>
+
+    <section class="build reveal" aria-label="Build progress">
+      <div class="build__head">
+        <span>Build progress</span>
+        <span class="pct"><span id="pct">0</span>%</span>
+      </div>
+      <div class="bar"><div class="bar__fill" id="fill"></div></div>
+      <div class="ticks" aria-hidden="true">
+        <span>0</span><span>25</span><span>50</span><span>75</span><span>100</span>
+      </div>
+    </section>
+
+    <div class="reveal">
+      <a class="btn" href="https://github.com/aryanshrai03" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+          <path d="M12 .5C5.65.5.5 5.65.5 12c0 5.08 3.29 9.39 7.86 10.91.58.11.79-.25.79-.55 0-.27-.01-1.17-.02-2.12-3.2.69-3.87-1.36-3.87-1.36-.52-1.33-1.28-1.68-1.28-1.68-1.04-.71.08-.7.08-.7 1.15.08 1.76 1.18 1.76 1.18 1.03 1.75 2.69 1.25 3.34.95.1-.74.4-1.25.72-1.53-2.55-.29-5.23-1.28-5.23-5.68 0-1.26.45-2.28 1.18-3.09-.12-.29-.51-1.46.11-3.05 0 0 .97-.31 3.17 1.18a11 11 0 0 1 5.78 0c2.2-1.49 3.16-1.18 3.16-1.18.63 1.59.24 2.76.12 3.05.74.81 1.18 1.83 1.18 3.09 0 4.41-2.69 5.38-5.25 5.67.41.35.77 1.05.77 2.12 0 1.53-.01 2.76-.01 3.14 0 .3.2.66.8.55A11.51 11.51 0 0 0 23.5 12C23.5 5.65 18.35.5 12 .5Z"/>
+        </svg>
+        github.com/aryanshrai03
+      </a>
+    </div>
+  </main>
+
+  <footer>
+    <b>&lt;/&gt;</b> &nbsp;&copy; <span id="year">2026</span> Aryansh Rai &nbsp;·&nbsp; Launching soon
+  </footer>
+
+  <script>
+    (function () {
+      "use strict";
+
+      var reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+      /* ---- Footer year ---- */
+      document.getElementById("year").textContent = new Date().getFullYear();
+
+      /* ---- Build progress count-up ---- */
+      var target = 87;           // % at the moment
+      var duration = 2300;       // ms
+      var pctEl = document.getElementById("pct");
+      var fillEl = document.getElementById("fill");
+
+      function setProgress(v) {
+        pctEl.textContent = Math.round(v);
+        fillEl.style.width = v + "%";
+      }
+
+      if (reduced) {
+        setProgress(target);
+      } else {
+        var start = null;
+        function step(ts) {
+          if (start === null) start = ts;
+          var t = Math.min((ts - start) / duration, 1);
+          var eased = 1 - Math.pow(1 - t, 3); // ease-out cubic
+          setProgress(target * eased);
+          if (t < 1) requestAnimationFrame(step);
+        }
+        requestAnimationFrame(step);
+      }
+
+      /* ---- Tiny parallax on the blueprint grid ---- */
+      if (!reduced) {
+        var pending = false, lx = 0, ly = 0;
+        window.addEventListener("pointermove", function (e) {
+          lx = e.clientX / window.innerWidth - 0.5;
+          ly = e.clientY / window.innerHeight - 0.5;
+          if (!pending) {
+            pending = true;
+            requestAnimationFrame(function () {
+              document.documentElement.style.setProperty("--mx", lx.toFixed(3));
+              document.documentElement.style.setProperty("--my", ly.toFixed(3));
+              pending = false;
+            });
+          }
+        }, { passive: true });
+      }
+    })();
+  </script>
+</body>
+</html>
