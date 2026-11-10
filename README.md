@@ -1,12 +1,10 @@
 <div align="center">
-
-# 👋 Hey, I'm **Aryansh Rai**
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Founder+%26+Full-Stack+Developer;Owns+AiraNode+Hosting+airanode.in;Building+AI+Tools+%26+Platforms;Founded+FoilAI;Founded+VroAI;Co+Founder+of+KalaBilla+DiscordBOT" alt="Typing SVG" />
+👋 Hey, I'm Aryansh Rai
 </div>
 
  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"> **About Me**
 - A Full-Stack Developer
-- 📡 *Currently focused on building AI-powered tools & Discord bots!*
+- *Currently focused on building AI/ML algorithms with Full stack development as a side hustle.*
 
 ---
 
