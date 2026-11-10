@@ -1,88 +1,40 @@
 <div align="center">
-👋 Hey, I'm Aryansh Rai
-</div>
 
- <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"> **About Me**
-- A Full-Stack Developer
-- *Currently focused on building AI/ML algorithms with Full stack development as a side hustle.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=header&text=Aryansh%20Rai&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20AI%2FML%20Builder&descSize=16&descAlignY=55" alt="Aryansh Rai" width="100%" />
 
----
+<a href="https://github.com/aryanshrai03">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=35&lines=Full-Stack+Developer;Building+AI%2FML+algorithms;React%2C+TypeScript%2C+Node.js%2C+Supabase" alt="Typing" />
+</a>
 
+<br />
 
-
-
-<div align="center">
-    
-## 🛠️ **Tech Stack**
-
-### 🚀 Expert In
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-
-
-### 📚 Currently Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+<a href="https://discord.com/users/1544354277030367342"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://github.com/aryanshrai03?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 
 </div>
 
----
+## About
 
+Full-stack developer focused on **building AI/ML algorithms**, with full-stack development as my side hustle.
 
+**Expert In**  
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,php,mysql,mongodb,supabase&perline=11" alt="Expert stack" />
 
+**Currently Learning**  
+<img src="https://skillicons.dev/icons?i=py,java,go,lua,nextjs,threejs&perline=6" alt="Learning stack" />
 
+## Projects
 
+Most of my code lives in private repositories. Public work is on my [repositories page](https://github.com/aryanshrai03?tab=repositories), with highlights coming soon.
 
-## 🚀 **Featured Projects**
+## Stats
 
 <div align="center">
 
-| 🎯 Project | 📝 Description | 🔗 Link |
-|:-----------|:---------------|:--------|
-| **CONTENT REMOVED** | CONTENT REMOVED | [null](https://github.com/aryanshrai03)|
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanshrai03&theme=tokyonight" alt="GitHub profile details" width="60%" />
 
-My projects list is removed for a while , until then you can explore my repos!
+<br /><br />
 
-</div>
-
----
-
-<div align="center">
-
-## **GitHub Stats**
-    
-![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanshrai03&theme=tokyonight)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryanshrai03&theme=tokyonight)
-
-### Most of my repos/codes are private :(
+<sub>Most of my repos are private, so these stats are juss not real 👅</sub>
 
 </div>
-
----
-
-
-<div align="center">
-
-## 📫 **Connect With Me**
-
-[![LINE](https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/t8vatxG_Zm)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oprenthic@gmail.com)
-
-</div>
-
-
